@@ -1,8 +1,8 @@
 {
-    "title": "Coming Soon",
-    "name": "startbootstrap-coming-soon",
+    "title": "Creative",
+    "name": "startbootstrap-creative",
     "version": "4.0.0",
-    "description": "Coming Soon is a Bootstrap 4 coming soon page theme.",
+    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -11,9 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/coming-soon",
+    "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -23,13 +23,15 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
         "font-awesome": "4.7.0",
         "jquery": "3.3.1",
-        "vide": "^0.5.1"
+        "jquery.easing": "^1.4.1",
+        "magnific-popup": "^1.1.0",
+        "scrollreveal": "3.3.6"
     },
     "devDependencies": {
         "browser-sync": "2.23.6",
