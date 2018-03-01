@@ -186,9 +186,9 @@ a:focus, a:hover {
   padding-bottom: 150px;
 }
 
-.download-section {
+.separator-one {
   color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
+  background: url("../img/separator-1.jpg") no-repeat center center fixed;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
