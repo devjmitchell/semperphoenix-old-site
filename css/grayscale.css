@@ -218,6 +218,16 @@ a:focus, a:hover {
   background-size: cover;
 }
 
+.contact-footer {
+  color: white;
+  background: url("../img/contact-footer.jpg") no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .btn {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
