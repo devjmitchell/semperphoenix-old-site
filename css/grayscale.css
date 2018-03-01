@@ -25,6 +25,10 @@ h6 {
   /* text-transform: uppercase; */
 }
 
+h2 {
+  color: #D0021B
+}
+
 p {
   font-size: 16px;
   line-height: 1.5;
@@ -50,7 +54,7 @@ a {
 a:focus, a:hover {
   text-decoration: none;
   /* color: #1d9b6c; */
-  color: #d05002;
+  color: #D05002;
 }
 
 #mainNav {
@@ -189,6 +193,16 @@ a:focus, a:hover {
 .separator-one {
   color: white;
   background: url("../img/separator-1.jpg") no-repeat center center fixed;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.separator-two {
+  color: white;
+  background: url("../img/separator-2.jpg") no-repeat center center fixed;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
