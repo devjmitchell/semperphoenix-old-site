@@ -156,7 +156,11 @@ a:focus, a:hover {
     height: 100%;
     padding: 0;
   }
-  .masthead .intro-body .brand-heading {
+  .masthead .intro-body .brand-heading-firstname {
+    font-size: 100px;
+    color: #D0021B
+  }
+  .masthead .intro-body .brand-heading-lastname {
     font-size: 100px;
   }
   .masthead .intro-body .intro-text {
