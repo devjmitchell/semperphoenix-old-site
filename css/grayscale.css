@@ -22,7 +22,7 @@ h6 {
   font-weight: 700;
   margin: 0 0 35px;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 p {
@@ -43,18 +43,20 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #42DCA3;
+  /* color: #42DCA3; */
+  color: #D0021B;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #1d9b6c;
+  /* color: #1d9b6c; */
+  color: #d05002;
 }
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin-bottom: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   background-color: black;
 }
@@ -124,7 +126,7 @@ a:focus, a:hover {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
+  background: url("../img/intro-bg.jpg") no-repeat bottom center fixed;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -200,21 +202,25 @@ a:focus, a:hover {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   border-radius: 0;
 }
 
 .btn-default {
-  color: #42DCA3;
-  border: 1px solid #42DCA3;
+  /* color: #42DCA3; */
+  color: #D0021B;
+  /* border: 1px solid #42DCA3; */
+  border: 1px solid #D0021B;
   background-color: transparent;
 }
 
 .btn-default:focus, .btn-default:hover {
   color: black;
-  border: 1px solid #42DCA3;
+  /* border: 1px solid #42DCA3; */
+  border: 1px solid #D0021B;
   outline: none;
-  background-color: #42DCA3;
+  /* background-color: #42DCA3; */
+  background-color: #D0021B;
 }
 
 ul.banner-social-buttons {
