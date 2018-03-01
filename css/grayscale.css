@@ -143,7 +143,12 @@ a:focus, a:hover {
   vertical-align: middle;
 }
 
-.masthead .intro-body .brand-heading {
+.masthead .intro-body .brand-heading-firstname {
+  font-size: 50px;
+  color: #D0021B;
+}
+
+.masthead .intro-body .brand-heading-lastname {
   font-size: 50px;
 }
 
@@ -158,7 +163,7 @@ a:focus, a:hover {
   }
   .masthead .intro-body .brand-heading-firstname {
     font-size: 100px;
-    color: #D0021B
+    color: #D0021B;
   }
   .masthead .intro-body .brand-heading-lastname {
     font-size: 100px;
