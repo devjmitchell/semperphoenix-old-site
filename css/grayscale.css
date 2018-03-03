@@ -123,6 +123,10 @@ a:focus, a:hover {
   }
 }
 
+.navbar-red {
+  color: #D0021B;
+}
+
 .masthead {
   display: table;
   width: 100%;
