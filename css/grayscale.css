@@ -222,9 +222,10 @@ a:focus, a:hover {
   background-size: cover;
 }
 
-.contact-footer {
+.contact-section {
   color: white;
-  background: url("../img/contact-footer.jpg") no-repeat center center scroll;
+  padding: 50px 0;
+  background: url("../img/contact-bg.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -280,14 +281,14 @@ ul.banner-social-buttons {
   }
 }
 
-footer {
+/* footer {
   padding: 50px 0;
 }
 
 footer p {
   font-size: 14px;
   margin: 0;
-}
+} */
 
 ::-moz-selection {
   background: #fcfcfc;
