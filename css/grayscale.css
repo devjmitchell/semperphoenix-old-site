@@ -22,7 +22,6 @@ h6 {
   font-weight: normal;
   margin: 0 0 35px;
   letter-spacing: 1px;
-  /* text-transform: uppercase; */
 }
 
 h2 {
@@ -47,20 +46,17 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  /* color: #42DCA3; */
   color: #D0021B;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  /* color: #1d9b6c; */
   color: #D05002;
 }
 
 #mainNav {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin-bottom: 0;
-  /* text-transform: uppercase; */
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   background-color: black;
 }
@@ -244,19 +240,15 @@ a:focus, a:hover {
 }
 
 .btn-default {
-  /* color: #42DCA3; */
   color: #D0021B;
-  /* border: 1px solid #42DCA3; */
   border: 1px solid #D0021B;
   background-color: transparent;
 }
 
 .btn-default:focus, .btn-default:hover {
   color: black;
-  /* border: 1px solid #42DCA3; */
   border: 1px solid #D0021B;
   outline: none;
-  /* background-color: #42DCA3; */
   background-color: #D0021B;
 }
 
